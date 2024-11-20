@@ -13,7 +13,7 @@ const App = () => {
 <nav className="bg-white shadow-md">
 <div className="container mx-auto px-4 py-4">
 <div className="flex justify-between items-center">
-<Link to="/" className="text-2xl font-bold text-blue-600">
+<Link to="/" className="text-3xl font-bold text-blue-600">
                  E Store
 </Link>
 {/* <Link to="/cart" className="text-lg hover:text-blue-600"> */}
@@ -22,8 +22,8 @@ const App = () => {
  role="img"
  xmlns="http://www.w3.org/2000/svg"
  viewBox="0 0 24 24"
- width="24px"
- height="24px"
+ width="30px"
+ height="30px"
 >
 <path
    fill="#285ff4"
